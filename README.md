@@ -24,13 +24,13 @@ This project consisted of two parts.
 
 In part 1, you have to install the Django framework into your local machine and do some setting & config with it.
 
-Step 1: check python installed version and install vitualenv with pip, enable the vitualenv.
+Step 1: check python installed version and \install vitualenv\ with \pip\, enable the \vitualenv\.
 
- * Install vitualenv is a good practice to create an isolated sandbox environment for your web development, but it is optional, you can still install Django into global scope if you want.
+ * Install \vitualenv\ is a good practice to create an isolated sandbox environment for your web development, but it is optional, you can still install Django into global scope if you want.
 Step 2: install Django, creating a project name with name “pythonweb”, creating an app with name “moviepoll”.
 
  * In this step you must get familiar with the project and app skeleton structure, mean you have to know the folder and files structure Django created after you use the command and the functions of each file.
-Step 3: Edit the setting.py to change timezone to Viet Nam, add “moviepoll” to installed apps, run initial migration, run server, edit url.py to include the route of “moviepoll” app.
+Step 3: Edit the \setting.py\ to change timezone to Viet Nam, add “moviepoll” to installed apps, run initial migration, run server, edit \url.py\ to include the route of “moviepoll” app.
 
  * You must understand the timezone format used in setting, know about the default apps and how to added new apps, what is route and how to add new one, what is the initial migration and why you have to run it. And finally, of course you have to know how to run the server and check everything are working fine.
 
@@ -48,7 +48,7 @@ Pages:
  * Detail page: show the questions, a list of radio button with movie name for that poll question and a submit button. People have to choose an option before submit.
  * Result page: the page to display result after the user submit a poll.
 Data:
- * Data will be saved with SqlLite (default data engine of Django) and using the Build in ORM and admin page of Django.
+ * Data will be saved with \SqlLite\ (default data engine of Django) and using the Build in ORM and admin page of Django.
  * Data model:
 
 ![basic.png](https://github.com/dphuonganh/Basic-Web-Server-A-Movie-Poll/blob/master/basic.png)
