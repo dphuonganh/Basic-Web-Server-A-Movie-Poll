@@ -48,6 +48,7 @@ Data:
  * Data model:
 
 ![basic.png](https://github.com/dphuonganh/Basic-Web-Server-A-Movie-Poll/blob/master/basic.png)
+
 **Step by step guild of part 2:**
 Because this is the first web project, a step by step guild will be provided to you. Hint:
  * There is an official Django tutorial for each step of making this poll app, it’s one of the reasons the poll app is chosen as your first Django web app project.
