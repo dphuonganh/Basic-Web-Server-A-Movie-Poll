@@ -25,13 +25,13 @@ This project consisted of two parts.
 In part 1, you have to install the Django framework into your local machine and do some setting & config with it.
 
 **Step 1:** check python installed version and \*install vitualenv\* with \*pip\*, enable the \*vitualenv\*.
-
  * Install \*vitualenv\* is a good practice to create an isolated sandbox environment for your web development, but it is optional, you can still install Django into global scope if you want.
+ 
 **Step 2:** install Django, creating a project name with name “pythonweb”, creating an app with name “moviepoll”.
-
  * In this step you must get familiar with the project and app skeleton structure, mean you have to know the folder and files structure Django created after you use the command and the functions of each file.
-**Step 3:** Edit the \*setting.py\* to change timezone to Viet Nam, add “moviepoll” to installed apps, run initial migration, run server, edit \*url.py\* to include the route of “moviepoll” app.
 
+
+**Step 3:** Edit the \*setting.py\* to change timezone to Viet Nam, add “moviepoll” to installed apps, run initial migration, run server, edit \*url.py\* to include the route of “moviepoll” app.
  * You must understand the timezone format used in setting, know about the default apps and how to added new apps, what is route and how to add new one, what is the initial migration and why you have to run it. And finally, of course you have to know how to run the server and check everything are working fine.
 
 #### Part 2:
