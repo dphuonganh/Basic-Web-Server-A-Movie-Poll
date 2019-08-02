@@ -76,4 +76,6 @@ Step 5: Writing and processing form:
 
 Step 6: Customize look and feels:
  * Learn how to serve static file in Django, add simple background image and css file to the project.
+ 
+***Link Trello:*** [My Trello](https://trello.com/b/lOzhEdXh/basic-web-server-a-movie-poll)
 
