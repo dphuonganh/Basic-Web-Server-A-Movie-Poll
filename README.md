@@ -46,4 +46,29 @@ Pages:
 Data:
  * Data will be saved with SqlLite (default data engine of Django) and using the Build in ORM and admin page of Django.
  * Data model:
+
 ![basic.png](https://github.com/dphuonganh/Basic-Web-Server-A-Movie-Poll/blob/master/basic.png)
+**Step by step guild of part 2:**
+Because this is the first web project, a step by step guild will be provided to you. Hint:
+ * There is an official Django tutorial for each step of making this poll app, it’s one of the reasons the poll app is chosen as your first Django web app project.
+ * When you follow the tutorial, remember to read carefully and understand what you’re doing.
+ 
+Step 1: Create project & poll app:
+ * Should be done in part 1, re do with correct name if needed.
+ 
+Step 2: Database setup, creating models, activating models, creating and running migrations, try interacting with the data through shell.
+
+ * This part is one of the most difficult one, have to read a lot, try a lot to understand and do-able.
+Step 3: Config and using the build-in admin site to add and manipulate data.
+
+ * If done step 2, this step will be not so hard.
+Step 4: Creating the views, using the template:
+
+ * This step requires a lot reading to understand what a view & template are and the basic of request & response in Django, learn to write basic view using template, write python code to read the data models, using Render, return 404 and other errors, using URL template and path.
+Step 5: Writing and processing form:
+
+ * Must learn basic about HTML form and POST method of HTTP. Write a form template. Use python to catch and process the form data.
+Step 6: Customize look and feels:
+
+Learn how to serve static file in Django, add simple background image and css file to the project.
+
