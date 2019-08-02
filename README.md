@@ -58,18 +58,17 @@ Step 1: Create project & poll app:
  * Should be done in part 1, re do with correct name if needed.
  
 Step 2: Database setup, creating models, activating models, creating and running migrations, try interacting with the data through shell.
-
  * This part is one of the most difficult one, have to read a lot, try a lot to understand and do-able.
+
 Step 3: Config and using the build-in admin site to add and manipulate data.
-
  * If done step 2, this step will be not so hard.
+
 Step 4: Creating the views, using the template:
-
  * This step requires a lot reading to understand what a view & template are and the basic of request & response in Django, learn to write basic view using template, write python code to read the data models, using Render, return 404 and other errors, using URL template and path.
+
 Step 5: Writing and processing form:
-
  * Must learn basic about HTML form and POST method of HTTP. Write a form template. Use python to catch and process the form data.
-Step 6: Customize look and feels:
 
-Learn how to serve static file in Django, add simple background image and css file to the project.
+Step 6: Customize look and feels:
+ * Learn how to serve static file in Django, add simple background image and css file to the project.
 
