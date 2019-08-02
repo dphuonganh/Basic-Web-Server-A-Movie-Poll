@@ -1,0 +1,23 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="{% static 'moviepoll/style.css' %}">
+    <title></title>
+  </head>
+  <body>
+    <h1 style="color: yellow;">The Intek Movie Friday Night Poll</h1>
+    <div class="container">
+    {% if latest_question_list %}
+        <ul>
+        {% for question in latest_question_list %}
+            <li><a href="{% url 'moviepoll:detail' question.id %}">{{ question.question_text }}</a></li>
+        {% endfor %}
+        </ul>
+    {% else %}
+        <p>No moviepoll are available.</p>
+    {% endif %}
+    </div>
+  </body>
+</html>
