@@ -1,6 +1,6 @@
 # Basic Web Server: A Movie Poll
 
-**Intro**
+**Intro:**
 Intekers, you have been through a very long journey with Python as a developer until now!
 
 Let it be fun games, the notorious shell or head breaking algorithms. You’re also get familiar with Object Oriented Programing through the Graph.
@@ -15,7 +15,7 @@ But please remember that the subject gives you a lot of materials doesn’t mean
 
 And finally, this project is very practical as we can use it to vote for what movie will be screen every Friday. We will have a beauty contest to choose the best functional and visual beauty to deploy for our use.
 
-**Requirement**
+**Requirement:**
 This project consisted of two parts.
 
 **Part 1:**
