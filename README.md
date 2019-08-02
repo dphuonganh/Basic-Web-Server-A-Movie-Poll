@@ -16,7 +16,7 @@ But please remember that the subject gives you a lot of materials doesn’t mean
 
 And finally, this project is very practical as we can use it to vote for what movie will be screen every Friday. We will have a beauty contest to choose the best functional and visual beauty to deploy for our use.
 
-**Requirement:** :smile:
+#**Requirement:** :smile:
 
 This project consisted of two parts.
 
