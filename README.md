@@ -1,6 +1,7 @@
 # Basic Web Server: A Movie Poll
 
 **Intro:** :smile:
+
 Intekers, you have been through a very long journey with Python as a developer until now!
 
 Let it be fun games, the notorious shell or head breaking algorithms. You’re also get familiar with Object Oriented Programing through the Graph.
@@ -16,9 +17,11 @@ But please remember that the subject gives you a lot of materials doesn’t mean
 And finally, this project is very practical as we can use it to vote for what movie will be screen every Friday. We will have a beauty contest to choose the best functional and visual beauty to deploy for our use.
 
 **Requirement:** :smile:
+
 This project consisted of two parts.
 
 **Part 1:**
+
 In part 1, you have to install the Django framework into your local machine and do some setting & config with it.
 
 Step 1: check python installed version and install vitualenv with pip, enable the vitualenv.
@@ -32,6 +35,7 @@ Step 3: Edit the setting.py to change timezone to Viet Nam, add “moviepoll” 
  * You must understand the timezone format used in setting, know about the default apps and how to added new apps, what is route and how to add new one, what is the initial migration and why you have to run it. And finally, of course you have to know how to run the server and check everything are working fine.
 
 **Part 2:**
+
 In part 2, you have to build a simple web application called the ““The Intek Movie Friday Night Poll” using Django framework.
 
 Features of the app:
@@ -50,6 +54,7 @@ Data:
 ![basic.png](https://github.com/dphuonganh/Basic-Web-Server-A-Movie-Poll/blob/master/basic.png)
 
 **Step by step guild of part 2:**
+
 Because this is the first web project, a step by step guild will be provided to you. Hint:
  * There is an official Django tutorial for each step of making this poll app, it’s one of the reasons the poll app is chosen as your first Django web app project.
  * When you follow the tutorial, remember to read carefully and understand what you’re doing.
